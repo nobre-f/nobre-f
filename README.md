@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Olá, sou o Fernando Nobre.
+- Sou universitário do Cesupa, atualmente curso ciência da computação(CC1MA-A)
+- sou um amante de jogos FPS.
+- pretendo aprender a programar em linguagem C.
 <!--
 **nobre-f/nobre-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
