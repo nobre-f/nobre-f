@@ -1,5 +1,5 @@
 ## Olá, sou o Fernando Nobre.
-- Sou universitário do Cesupa, atualmente curso ciência da computação(CC1MA-A)
+- Sou universitário do CESUPA, atualmente curso ciência da computação(CC1MA-A)
 - sou um amante de jogos FPS.
 - pretendo aprender a programar em linguagem C.
 <!--
